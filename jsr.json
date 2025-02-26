@@ -1,5 +1,5 @@
 {
-  "name": "@scure/base",
+  "name": "@xhbmygod/scure-base",
   "version": "1.2.4",
   "exports": "./index.ts",
   "publish": {
