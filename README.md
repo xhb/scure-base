@@ -1,5 +1,8 @@
 # scure-base
 
+
+base58xrp 的编码方式变化, 用来适应 xier 网络
+
 Audited & minimal implementation of bech32, base64, base58, base32 & base16.
 
 - 🔒 [Audited](#security) by an independent security firm

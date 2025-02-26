@@ -455,7 +455,7 @@ export const base58flickr: BytesCoder = genBase58(
   '123456789abcdefghijkmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ'
 );
 export const base58xrp: BytesCoder = genBase58(
-  'rpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2bcdeCg65jkm8oFqi1tuvAxyz'
+  'xpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2bcdeCg65jkm8oFqi1tuvAryz'
 );
 
 // Data len (index) -> encoded block len
